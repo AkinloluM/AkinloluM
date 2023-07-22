@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AkinloluM
-- 👀 I’m interested in Security, Forensics, Compliance
-- 🌱 I’m currently learning MS-500
-- 💞️ I’m looking to collaborate on Security and Forensics
+- 👀 I’m interested in Security, Web Development, Secure Programming and Forensics,
+- 🌱 I’m currently attending UNB Coding Boot Camp
+- 💞️ I’m looking to collaborate with Web Developers and Software Engineers
 - 📫 How to reach me www.linkedin.com/in/akinlolu-makinwa-305165181
 
 <!---
